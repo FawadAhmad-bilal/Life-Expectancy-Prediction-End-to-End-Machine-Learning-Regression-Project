@@ -1,4 +1,4 @@
-Life Expectancy Prediction Project
+##Life Expectancy Prediction Project##
 
 ntroduction
 In this project, I tried to predict life expectancy using machine learning.  
