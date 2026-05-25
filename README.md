@@ -1,4 +1,4 @@
-##Life Expectancy Prediction Project##
+Life Expectancy Prediction Project
 
 ntroduction
 In this project, I tried to predict life expectancy using machine learning.  
@@ -92,4 +92,3 @@ What I want to improve next
 
 About me
 I'm currently learning machine learning and building projects to improve my skills step by step.
-
