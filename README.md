@@ -80,13 +80,12 @@ What I learned
 - How to evaluate a model properly (not just relying on accuracy/R²)  
 - How small preprocessing decisions can affect results  
 
-
 What I want to improve next
 - Try more advanced models like Random Forest and XGBoost  
 - Improve feature engineering  
 - Build a small web app for predictions  
-- Work on better data visualization  
+- Work on better data visualization
 
-
+- 
 About me
 I'm currently learning machine learning and building projects to improve my skills step by step.
