@@ -12,9 +12,7 @@ What I tried to achieve
 - Understand the relationship between health spending and life expectancy  
 - Build a simple but effective prediction model  
 - Practice a full machine learning workflow on real data  
-
 ---
-
 about the dataset
 The dataset includes:
 
